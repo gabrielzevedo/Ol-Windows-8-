@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>2673315e-9d2f-4e02-b349-d8ea097006f3</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
+    <VisualStudioVersion>11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetPlatformVersion>8.0</TargetPlatformVersion>
+    <DefaultLanguage>pt-br</DefaultLanguage>
+    <PackageCertificateKeyFile>Olá, Windows 8!_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="css\default.css" />
+    <Content Include="images\Badge.png" />
+    <Content Include="images\fig\appsintegrados-thumb.png" />
+    <Content Include="images\fig\assemail-thumb.png" />
+    <Content Include="images\fig\atalhodesligar-thumb.png" />
+    <Content Include="images\fig\avancado-thumb.png" />
+    <Content Include="images\fig\blocopersonalizado-thumb.png" />
+    <Content Include="images\fig\charm-thumb.png" />
+    <Content Include="images\fig\conceito-thumb.png" />
+    <Content Include="images\fig\exibirapp-thumb.png" />
+    <Content Include="images\fig\fecharapp-thumb.png" />
+    <Content Include="images\fig\fig1.png" />
+    <Content Include="images\fig\fig10.png" />
+    <Content Include="images\fig\fig11.png" />
+    <Content Include="images\fig\fig12.png" />
+    <Content Include="images\fig\fig13.png" />
+    <Content Include="images\fig\fig14.png" />
+    <Content Include="images\fig\fig15.png" />
+    <Content Include="images\fig\fig16.png" />
+    <Content Include="images\fig\fig17.png" />
+    <Content Include="images\fig\fig18.png" />
+    <Content Include="images\fig\fig19-2.png" />
+    <Content Include="images\fig\fig19.png" />
+    <Content Include="images\fig\fig2.png" />
+    <Content Include="images\fig\fig20.png" />
+    <Content Include="images\fig\fig21.png" />
+    <Content Include="images\fig\fig22.png" />
+    <Content Include="images\fig\fig23.png" />
+    <Content Include="images\fig\fig24.png" />
+    <Content Include="images\fig\fig25.png" />
+    <Content Include="images\fig\fig26.png" />
+    <Content Include="images\fig\fig27.png" />
+    <Content Include="images\fig\fig28.png" />
+    <Content Include="images\fig\fig29.png" />
+    <Content Include="images\fig\fig3.png" />
+    <Content Include="images\fig\fig30.png" />
+    <Content Include="images\fig\fig31.png" />
+    <Content Include="images\fig\fig32.png" />
+    <Content Include="images\fig\fig33.png" />
+    <Content Include="images\fig\fig34.png" />
+    <Content Include="images\fig\fig35.png" />
+    <Content Include="images\fig\fig36.png" />
+    <Content Include="images\fig\fig37.png" />
+    <Content Include="images\fig\fig38.png" />
+    <Content Include="images\fig\fig39.png" />
+    <Content Include="images\fig\fig4.png" />
+    <Content Include="images\fig\fig40.png" />
+    <Content Include="images\fig\fig41.png" />
+    <Content Include="images\fig\fig42.png" />
+    <Content Include="images\fig\fig43.png" />
+    <Content Include="images\fig\fig44.png" />
+    <Content Include="images\fig\fig45.png" />
+    <Content Include="images\fig\fig46.png" />
+    <Content Include="images\fig\fig47.png" />
+    <Content Include="images\fig\fig48.png" />
+    <Content Include="images\fig\fig49.png" />
+    <Content Include="images\fig\fig5.png" />
+    <Content Include="images\fig\fig50.png" />
+    <Content Include="images\fig\fig51.png" />
+    <Content Include="images\fig\fig52.png" />
+    <Content Include="images\fig\fig53.png" />
+    <Content Include="images\fig\fig54.png" />
+    <Content Include="images\fig\fig55.png" />
+    <Content Include="images\fig\fig56.png" />
+    <Content Include="images\fig\fig57.png" />
+    <Content Include="images\fig\fig58.png" />
+    <Content Include="images\fig\fig59.png" />
+    <Content Include="images\fig\fig6.png" />
+    <Content Include="images\fig\fig60.png" />
+    <Content Include="images\fig\fig61.png" />
+    <Content Include="images\fig\fig62.png" />
+    <Content Include="images\fig\fig63.png" />
+    <Content Include="images\fig\fig64.png" />
+    <Content Include="images\fig\fig65.png" />
+    <Content Include="images\fig\fig66.png" />
+    <Content Include="images\fig\fig67.png" />
+    <Content Include="images\fig\fig68.png" />
+    <Content Include="images\fig\fig69.png" />
+    <Content Include="images\fig\fig7.png" />
+    <Content Include="images\fig\fig70.png" />
+    <Content Include="images\fig\fig71.png" />
+    <Content Include="images\fig\fig72.png" />
+    <Content Include="images\fig\fig73.png" />
+    <Content Include="images\fig\fig74.png" />
+    <Content Include="images\fig\fig75.png" />
+    <Content Include="images\fig\fig76.png" />
+    <Content Include="images\fig\fig77.png" />
+    <Content Include="images\fig\fig78.png" />
+    <Content Include="images\fig\fig79.png" />
+    <Content Include="images\fig\fig8.png" />
+    <Content Include="images\fig\fig80.png" />
+    <Content Include="images\fig\fig81.png" />
+    <Content Include="images\fig\fig82.png" />
+    <Content Include="images\fig\fig9.png" />
+    <Content Include="images\fig\fundopersonalizado-thumb.png" />
+    <Content Include="images\fig\gadgetsdesktop-thumb.png" />
+    <Content Include="images\fig\hibernacao-thumb.png" />
+    <Content Include="images\fig\iniciante-thumb.png" />
+    <Content Include="images\fig\intermediario-thumb.png" />
+    <Content Include="images\fig\loja-thumb.png" />
+    <Content Include="images\fig\menuclassico-thumb.png" />
+    <Content Include="images\fig\midiarecuperacao-thumb.png" />
+    <Content Include="images\fig\painelcontrole-thumb.png" />
+    <Content Include="images\fig\personinicial-thumb.png" />
+    <Content Include="images\fig\personinicial2-thumb.png" />
+    <Content Include="images\fig\senhaimagem-thumb.png" />
+    <Content Include="images\fig\storeamericana-thumb.png" />
+    <Content Include="images\fundo.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\smalllogo.png" />
+    <Content Include="images\splashscreen.png" />
+    <Content Include="images\storelogo.png" />
+    <Content Include="images\WideLogo.png" />
+    <Content Include="js\data.js" />
+    <Content Include="js\default.js" />
+    <Content Include="js\navigator.js" />
+    <Content Include="pages\aboutUs\aboutUs.css" />
+    <Content Include="pages\aboutUs\aboutUs.html" />
+    <Content Include="pages\aboutUs\aboutUs.js" />
+    <Content Include="pages\contactUs\contactUs.css" />
+    <Content Include="pages\contactUs\contactUs.html" />
+    <Content Include="pages\contactUs\contactUs.js" />
+    <Content Include="pages\itemDetail\itemDetail.css" />
+    <Content Include="pages\itemDetail\itemDetail.html" />
+    <Content Include="pages\itemDetail\itemDetail.js" />
+    <Content Include="pages\groupDetail\groupDetail.css" />
+    <Content Include="pages\groupDetail\groupDetail.html" />
+    <Content Include="pages\groupDetail\groupDetail.js" />
+    <Content Include="pages\groupedItems\groupedItems.css" />
+    <Content Include="pages\groupedItems\groupedItems.html" />
+    <Content Include="pages\groupedItems\groupedItems.js" />
+    <Content Include="default.html" />
+    <Content Include="pages\privacyPolicy\privacyPolicy.css" />
+    <Content Include="pages\privacyPolicy\privacyPolicy.html" />
+    <Content Include="pages\privacyPolicy\privacyPolicy.js" />
+    <Content Include="searchResults.css" />
+    <Content Include="searchResults.html" />
+    <Content Include="searchResults.js" />
+    <None Include="Olá, Windows 8!_TemporaryKey.pfx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

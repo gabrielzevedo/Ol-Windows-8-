@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bin\Release\resources.pri
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bin\Release\AppxManifest.xml
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bin\Release\Olá, Windows 8!.build.appxrecipe
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\priconfig.xml
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\layout.resfiles
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\resources.resfiles
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\pri.resfiles
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\LanguageQualifiers.txt
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\ProjectArchitectures.txt
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bin\Release\Olá, Windows 8!_TemporaryKey.pfx
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\priconfig.xml.intermediate
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\layout.resfiles.intermediate
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\resources.resfiles.intermediate
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Olá, Windows 8!\Olá, Windows 8!\bld\Release\pri.resfiles.intermediate
