@@ -7,3 +7,7 @@ Este aplicativo tem como principal objetivo ajudar os iniciantes que migraram pa
 # Download
 
 https://www.microsoft.com/pt-br/store/p/ola-win-8/9wzdncrdgvht#
+
+# Nota
+
+Publicado originalmente em 2013.
